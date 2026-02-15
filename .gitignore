@@ -2,7 +2,7 @@
 .nextflow/
 .nextflow.log*
 work/
-results/
+# results/ is now tracked for analysis outputs
 test_results/
 
 # Python
