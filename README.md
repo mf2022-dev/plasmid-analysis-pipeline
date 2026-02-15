@@ -313,4 +313,3 @@ This pipeline was developed as part of the ST11 *Klebsiella pneumoniae* genomic 
 
 - **Author:** Majed Alghoribi
 - **Email:** alghoribima@gmail.com
-- **Institution:** King Abdulaziz Medical City, Riyadh, Saudi Arabia
