@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use PlasmidScope, please cite it as below."
+authors:
+  - family-names: "Alghoribi"
+    given-names: "Majed"
+    orcid: ""
+title: "PlasmidScope: Comprehensive Bacterial Plasmid Genomic Analysis Pipeline"
+version: 1.0.0
+date-released: 2026-02-15
+url: "https://github.com/alghoribima/plasmid-analysis-pipeline"
+license: MIT
+type: software
+keywords:
+  - plasmid
+  - genomics
+  - bioinformatics
+  - antimicrobial resistance
+  - mobile genetic elements
+  - nextflow
+  - pipeline

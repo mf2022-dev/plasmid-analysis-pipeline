@@ -1,0 +1,35 @@
+# Nextflow
+.nextflow/
+.nextflow.log*
+work/
+results/
+test_results/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.eggs/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data
+*.fastq
+*.fastq.gz
+*.fasta
+*.fa
+*.bam
+*.bai
+*.sam
+
+# Databases
+databases/

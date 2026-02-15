@@ -1,0 +1,2 @@
+sample,short_reads_1,short_reads_2,long_reads,assembly
+test_sample_001,,,,test/data/test_assembly.fasta
