@@ -1,0 +1,18 @@
+SNP HEATMAP KEY OBSERVATIONS
+==============================
+
+INTRA-STUDY (SA vs SA):
+- Most pairs: 0-14 SNPs (deep red = very few SNPs)
+- JKPB244 vs JKPB284: 14 SNPs (most distant within study)
+- KP21802 vs MDRKP122: 0 SNPs (identical)
+- JKPB381 is closest to JKPB284 (2 SNPs) and JKPR282 (2 SNPs)
+
+STUDY vs GLOBAL:
+- KX236178 (China, 121 kb) is the most divergent: 193-242 SNPs from all
+- CP073303 (China, 126 kb) is closest to our plasmids: 1-7 SNPs
+- CP097693 (China, 131 kb) also very close: 5-14 SNPs
+- MZ709016 (China, 128 kb) close: 4-13 SNPs
+- MT648513 (Egypt, 130 kb): 19-30 SNPs from our plasmids
+
+NOTABLE: CP073303 differs by only 1 SNP from JKPB381 - nearly identical!
+This Chinese plasmid (pSW1780-KPC, 125.6 kb) is the closest global match.

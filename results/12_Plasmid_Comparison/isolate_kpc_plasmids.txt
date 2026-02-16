@@ -1,0 +1,18 @@
+KPC-carrying IncFII+IncR plasmids identified from 8 long-read assemblies:
+
+Isolate         Plasmid File                                    Size (bp)
+1_JKPB244       1_JKPB244_plasmid_2_130704bp.fasta              130,704
+2_JKPB284       2_JKPB284_plasmid_2_130703bp.fasta              130,703
+3_JKPB304       UNCLEAR - many contigs, needs BLAST to identify  ???
+4_JKPB381       4_JKPB381_plasmid_2_105383bp.fasta              105,383 (smaller?)
+5_JKPR282       5_JKPR282_plasmid_1_130556bp.fasta              130,556
+6_KP21802       6_KP21802_plasmid_2_130704bp.fasta              130,704
+7_KP21915       7_KP21915_plasmid_2_130704bp.fasta              130,704
+8_MDRKP121      8_MDRKP121_plasmid_2_130585bp.fasta             130,585
+9_MDRKP122      9_MDRKP122_plasmid_2_130586bp.fasta             130,586
+
+Notes:
+- Most isolates have a ~130.7 kb plasmid (very consistent size)
+- 3_JKPB304 has many small contigs (short-read-like assembly?) - needs verification
+- 4_JKPB381 has a 105 kb plasmid (may be different backbone or truncated)
+- 6 of 8 isolates have nearly identical ~130.7 kb plasmid

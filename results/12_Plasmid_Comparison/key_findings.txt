@@ -1,0 +1,31 @@
+WHOLE-PLASMID COMPARISON KEY FINDINGS
+======================================
+
+INTRA-STUDY (Our 8 Saudi Arabia ST11 plasmids):
+  Pairwise identity: 99.90% - 100.00%
+  Mean identity: 99.97%
+  SNP range: 0 - 14
+  Mean SNPs: 5.5
+  Aligned coverage: 83.61% - 100.00%
+  Note: 83.61% coverage involves JKPB381 (105 kb, smaller variant)
+
+OUR PLASMIDS vs GLOBAL REFERENCES (China, Egypt, UK):
+  Pairwise identity: 99.06% - 99.99%
+  Mean identity: 99.88%
+  SNP range: 1 - 242
+  Mean SNPs: 34.9
+  Aligned coverage: 37.89% - 100.00%
+
+GLOBAL REFERENCES (inter-reference):
+  Pairwise identity: 99.10% - 99.99%
+  Mean identity: 99.82%
+  SNP range: 2 - 218
+  Mean SNPs: 59.2
+
+INTERPRETATION:
+- Our 8 plasmids are nearly identical to each other (0-14 SNPs, >99.9% identity)
+- They are also highly similar to global references (>99% identity)
+- The global KPC-carrying IncFII+IncR plasmids form a single conserved lineage
+- Saudi Arabia plasmids are MORE similar to each other than global references are to each other
+  (mean 5.5 SNPs intra-study vs 59.2 SNPs inter-reference)
+- This suggests recent clonal introduction and local spread in Saudi Arabia

@@ -1,0 +1,37 @@
+GENE CONTENT COMPARISON - KPC PLASMID (contig_3) ACROSS 8 ISOLATES
+====================================================================
+
+AMR GENES PER ISOLATE:
+                     JKPB244  JKPB284  JKPB381  JKPR282  KP21802  KP21915  MDRKP121  MDRKP122
+blaKPC-2               +        +        +        -        +        +        +         +
+blaCTX-M-65            +        +        +        -        +        +        +         +
+blaSHV-12              +        +        +        -        +        +        +         +
+blaTEM-1               +        +        -        -        +        +        +         +
+fosA3                  +        +        -        -        +        +        +         +
+rmtB1                  +        +        -        -        +        +        +         +
+catA2                  +        +        +        -        +        +        +         +
+merP (mercury)         +        +        -        -        +        +        +         +
+
+JKPR282 DIFFERENT: carries erm(B), tet(X5), sul1, aadA12 instead - DIFFERENT PLASMID BACKBONE
+JKPB381 REDUCED: 105 kb (smaller), missing fosA3, blaTEM-1, rmtB1, merP - TRUNCATED VARIANT
+
+CORE AMR CASSETTE (6/8 isolates: JKPB244, JKPB284, KP21802, KP21915, MDRKP121, MDRKP122):
+  blaKPC-2 + blaCTX-M-65 + blaSHV-12 + blaTEM-1 + fosA3 + rmtB1 + catA2 + merP
+
+This represents a MULTI-DRUG RESISTANCE MODULE conferring resistance to:
+  - Carbapenems (blaKPC-2)
+  - Extended-spectrum cephalosporins (blaCTX-M-65, blaSHV-12, blaTEM-1)
+  - Fosfomycin (fosA3)
+  - Aminoglycosides (rmtB1)
+  - Chloramphenicol (catA2)
+  - Mercury (merP/merC operon)
+
+CONJUGATION MACHINERY:
+  traE present in 7/8 isolates (all except JKPR282)
+  traK present in KP21915, MDRKP121, MDRKP122
+  This confirms the plasmid is CONJUGATIVE (IncFII+IncR type)
+
+KEY OBSERVATIONS:
+1. JKPR282 carries a DIFFERENT plasmid type (different AMR gene content)
+2. JKPB381 has a TRUNCATED variant (105 kb vs 130 kb)
+3. The remaining 6 isolates share an essentially identical plasmid backbone
