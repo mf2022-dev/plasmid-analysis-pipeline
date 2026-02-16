@@ -1,0 +1,57 @@
+BLAST Analysis Key Findings - Tn4401-like blaKPC-2 Cassette Global Dissemination
+================================================================================
+
+Query: 10,089 bp Tn4401-like blaKPC-2 cassette from ST11 K. pneumoniae
+Database: NCBI nt (nucleotide collection)
+Filters: ≥90% identity, ≥80% query coverage
+Total high-quality hits: 492 (490 unique accessions)
+
+SPECIES DISTRIBUTION (490 unique accessions):
+- Klebsiella pneumoniae: 423 (86.3%)
+- Escherichia coli: 16 (3.3%)
+- Serratia marcescens: 9 (1.8%)
+- Proteus mirabilis: 7 (1.4%)
+- Pseudomonas aeruginosa: 7 (1.4%)
+- Klebsiella aerogenes: 5 (1.0%)
+- Citrobacter freundii: 5 (1.0%)
+- Other species (8 species): 18 (3.7%)
+Total: 20 different bacterial species
+
+GEOGRAPHIC DISTRIBUTION (467/490 with country data):
+- China: 407 (87.2%)
+- Taiwan: 31 (6.6%)
+- Sudan: 17 (3.6%)
+- Japan: 3 (0.6%)
+- USA: 2 (0.4%)
+- India: 2 (0.4%)
+- United Kingdom: 1 (0.2%)
+- Egypt: 1 (0.2%)
+- Singapore: 1 (0.2%)
+- Indonesia: 1 (0.2%)
+- South Korea: 1 (0.2%)
+Total: 11 countries, 4 continents
+
+GENOMIC LOCATION:
+- Plasmid: 460 (93.9%)
+- Chromosome: 25 (5.1%)
+- Chromosome/Genome: 5 (1.0%)
+
+SEQUENCE IDENTITY:
+- Mean: 99.95%
+- 99-100% identity: 480 hits (97.6%)
+- 95-99% identity: 12 hits (2.4%)
+- Minimum: 97.75%
+
+HOST ORGANISM:
+- Homo sapiens: 355+ (predominantly human clinical isolates)
+- Also found in animal sources (elephant, pig)
+
+FIGURES GENERATED (8 publication-quality figures, each in PNG/PDF/SVG):
+1. Fig_Species_Distribution - Bacterial species bar chart
+2. Fig_Geographic_Distribution - Geographic bar chart + continental pie
+3. Fig_Source_Type_Distribution - Plasmid vs chromosome with species breakdown
+4. Fig_Identity_Distribution - Histogram + boxplot by species
+5. Fig_Summary_Panel_6x - Comprehensive 6-panel summary figure
+6. Fig_Plasmid_Names - Top plasmid names carrying the cassette
+7. Fig_Collection_Timeline - Temporal distribution with cumulative curve
+8. Fig_Species_Country_Heatmap - Species × geography heatmap
