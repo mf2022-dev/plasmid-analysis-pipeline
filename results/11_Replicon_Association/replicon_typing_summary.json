@@ -1,0 +1,27 @@
+{
+  "total_plasmid_accessions": 460,
+  "ncbi_classified": 3,
+  "name_classified": 0,
+  "size_classified": 457,
+  "replicon_distribution": {
+    "Large (70-160 kb; likely IncFII\u00b1IncR)": 367,
+    "Medium (30-70 kb; likely IncN/IncL/IncX)": 32,
+    "Very large (160-250 kb)": 29,
+    "Mega (>250 kb; likely IncHI/IncFIB)": 15,
+    "Small mobilizable (<30 kb)": 14,
+    "IncFII-133-CR": 1,
+    "IncFII-114": 1,
+    "IncFII-R": 1
+  },
+  "size_distribution": {
+    "Large (70-160 kb; likely IncFII\u00b1IncR)": 370,
+    "Medium (30-70 kb; likely IncN/IncL/IncX)": 32,
+    "Very large (160-250 kb)": 29,
+    "Mega (>250 kb; likely IncHI/IncFIB)": 15,
+    "Small mobilizable (<30 kb)": 14
+  },
+  "median_size_kb": 124.35,
+  "mean_size_kb": 123.19173913043478,
+  "pct_90_145kb": 65.21739130434783,
+  "pct_120_140kb": 30.65217391304348
+}

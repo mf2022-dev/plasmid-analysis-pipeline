@@ -1,0 +1,461 @@
+accession,species,plasmid_name,plasmid_size_bp,plasmid_size_kb,replicon_type,classification_source,size_class,geographic_origin,percent_identity,host_organism,collection_date
+CP074118,Klebsiella pneumoniae,unnamed2,116047,116.0,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2021-01-06
+CP082042,Klebsiella pneumoniae,pKP19-2196-KPC2,160563,160.6,Very large (160-250 kb),Size-based inference,Very large (160-250 kb),China,100.0,Homo sapiens,2019-02-23
+CP095427,Klebsiella pneumoniae,pIM029_KPC,120647,120.6,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,patient,2019-04-26
+CP128565,Klebsiella pneumoniae,pKPC2_NDM5,167277,167.3,Very large (160-250 kb),Size-based inference,Very large (160-250 kb),China,100.0,Homo sapiens,2021-02-27
+CP082020,Klebsiella pneumoniae,pKP18-2050-KPC2,135837,135.8,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2018-11-13
+OR666713,Klebsiella pneumoniae,pQL4-KPC,112469,112.5,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Not specified,2021
+OR253888,Klebsiella pneumoniae,pQL5-NDM-KPC,214266,214.3,Very large (160-250 kb),Size-based inference,Very large (160-250 kb),China,100.0,infant,Not specified
+CP082012,Klebsiella pneumoniae,pKP18-41-KPC2,153214,153.2,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2018-06-21
+CP178863,Klebsiella pneumoniae,unnamed,144133,144.1,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2020-02-01
+CP144509,Klebsiella pneumoniae,pJNP887-3,112461,112.5,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2021-09-06
+CP131920,Klebsiella pneumoniae,p234-KPC-2,84970,85.0,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Not specified,2022-07-04
+CP125287,Klebsiella pneumoniae,pJLKP1009,167464,167.5,Very large (160-250 kb),Size-based inference,Very large (160-250 kb),China,100.0,Homo sapiens,2020-10-04
+CP097693,Klebsiella pneumoniae,unnamed1,130677,130.7,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2022-01-19
+OR900370,Klebsiella sp,pQL1ds-KPC,112479,112.5,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Not specified,2021
+CP047161,Klebsiella pneumoniae,pKP19-2029-KPC2,127240,127.2,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,female,2019-01-04
+CP025458,Klebsiella pneumoniae,p69-2,128563,128.6,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2017-05-17
+CP082034,Klebsiella pneumoniae,pKP18-2138-KPC2,115559,115.6,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2018-12-19
+OR666707,Klebsiella pneumoniae,pQL3-KPC,112465,112.5,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Not specified,2021
+CP146090,Klebsiella pneumoniae,pJNP886-3,112466,112.5,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2021-09-06
+CP169915,Klebsiella pneumoniae,pK58559-KPC,121138,121.1,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2023
+CP073303,Klebsiella pneumoniae,pSW1780-KPC,125619,125.6,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2019
+CP169936,Klebsiella pneumoniae,pK68336-KPC,115562,115.6,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2024
+MT648513,Klebsiella pneumoniae,pEBSI036-2-KPC,129869,129.9,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),Egypt,100.0,Homo sapiens,Not specified
+CP045264,Klebsiella pneumoniae,p16HN-263_KPC,129252,129.3,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2016
+CP082003,Klebsiella pneumoniae,pKP18-1-KPC2,153399,153.4,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2018-06-07
+CP082039,Klebsiella pneumoniae,pKP18-2172-KPC2,160747,160.7,Very large (160-250 kb),Size-based inference,Very large (160-250 kb),China,100.0,Homo sapiens,2018-12-24
+MT269846,Klebsiella pneumoniae,pBSI073-KPC2,118923,118.9,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2018
+CP192284,Klebsiella pneumoniae,p-unmaned1,129466,129.5,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),United Kingdom,100.0,Homo sapiens,2025-05
+CP028796,Klebsiella pneumoniae,pKPC2_040035,112467,112.5,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2017-06-15
+MZ709016,Klebsiella pneumoniae,pJNKPN52_kpc_fosA,127668,127.7,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Not specified,Not specified
+MZ512197,Klebsiella pneumoniae,pJNKPN52_KPC_FOS,279300,279.3,Mega (>250 kb; likely IncHI/IncFIB),Size-based inference,Mega (>250 kb; likely IncHI/IncFIB),China,100.0,Not specified,Not specified
+CP144513,Klebsiella pneumoniae,pJNP888-3,112459,112.5,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2021-10-24
+OR666719,Klebsiella pneumoniae,pQL8-KPC,112462,112.5,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Not specified,2021
+CP082025,Klebsiella pneumoniae,pKP18-2073-KPC2,130597,130.6,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2018-11-15
+OR666722,Klebsiella pneumoniae,pQL7-KPC,112466,112.5,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,99.99,Not specified,2021
+OR666709,Klebsiella pneumoniae,pQL2-KPC,112462,112.5,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,99.99,Not specified,2021
+OR666716,Klebsiella pneumoniae,pQL6-KPC,112463,112.5,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,99.99,Not specified,2021
+CP082015,Klebsiella pneumoniae,pKP18-238-KPC2,128480,128.5,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,99.98,Homo sapiens,2018-10-04
+OR666725,Klebsiella pneumoniae,pQL1-KPC,112440,112.4,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,99.9,Not specified,2021
+CP114972,Klebsiella pneumoniae,p2111KP-2,134993,135.0,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2021-12-25
+CP054722,Klebsiella pneumoniae,pKP20194f-p2,133772,133.8,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Not specified,2019-04-27
+CP152441,Klebsiella pneumoniae,p12-2,116361,116.4,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2020
+MZ475702,Klebsiella pneumoniae,unnamed3,110080,110.1,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Not specified,15-Dec-2020
+KX236178,Klebsiella pneumoniae,pHS091147,121348,121.3,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Not specified,20-Feb-2009
+KC405622,Klebsiella pneumoniae,pKPC-LK30,86518,86.5,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),Not specified,100.0,Not specified,Not specified
+OP351671,Klebsiella pneumoniae,p1024KPC2,65438,65.4,Medium (30-70 kb; likely IncN/IncL/IncX),Size-based inference,Medium (30-70 kb; likely IncN/IncL/IncX),China,100.0,Homo sapiens,Not specified
+CP128067,Klebsiella pneumoniae,p2014N21-073-1,98935,98.9,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),Taiwan,100.0,Homo sapiens,2014
+CP136269,Klebsiella pneumoniae,pL2425-KPC-2,133771,133.8,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2020-07-30
+CP172829,Klebsiella pneumoniae,pWYKP3-2,95973,96.0,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2019-07-30
+CP130221,Klebsiella pneumoniae,p2016C06-001-53k,53238,53.2,Medium (30-70 kb; likely IncN/IncL/IncX),Size-based inference,Medium (30-70 kb; likely IncN/IncL/IncX),Taiwan,100.0,Homo sapiens,2016
+MZ475694,Klebsiella pneumoniae,unnamed2,99645,99.6,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Not specified,15-Dec-2020
+MN842292,Klebsiella pneumoniae,p12085-KPC,142041,142.0,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Not specified,Not specified
+CP047680,Serratia marcescens,p4201-KPC,94056,94.1,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,27-Feb-2019
+CP199521,Enterobacter asburiae,px220589_P4,61833,61.8,Medium (30-70 kb; likely IncN/IncL/IncX),Size-based inference,Medium (30-70 kb; likely IncN/IncL/IncX),China,100.0,Homo sapiens,2024-10-23
+OR041628,Escherichia coli,pJ-JNKPN26-3_HNK,270443,270.4,Mega (>250 kb; likely IncHI/IncFIB),Size-based inference,Mega (>250 kb; likely IncHI/IncFIB),China,100.0,Not specified,Not specified
+OP351670,Klebsiella pneumoniae,p1012KPC2,84975,85.0,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,Not specified
+MT644086,Klebsiella pneumoniae,pCRHV-C2244,293391,293.4,Mega (>250 kb; likely IncHI/IncFIB),Size-based inference,Mega (>250 kb; likely IncHI/IncFIB),Not specified,100.0,Homo sapiens,Not specified
+MT269826,Klebsiella pneumoniae,pBSI030-KPC2,93952,94.0,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2017
+CP142693,Klebsiella pneumoniae,p2,134670,134.7,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Not specified,Not specified
+CP171819,Klebsiella pneumoniae,p2,142620,142.6,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2024
+CP107374,Klebsiella pneumoniae,unnamed2,134594,134.6,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2018-12-04
+CP182921,Klebsiella pneumoniae,pFAHZZU6216-2,133772,133.8,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2022
+CP101782,Klebsiella pneumoniae,unnamed6,111949,111.9,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2022-04-16T16:25:10Z
+CP167477,Klebsiella pneumoniae,unnamed3,133376,133.4,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2019
+MF168402,Klebsiella pneumoniae,p1068-KPC,146103,146.1,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Not specified,Not specified
+CP087640,Klebsiella pneumoniae,pDD02391-1,133772,133.8,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2017-12-01
+CP139374,Klebsiella aerogenes,pC21992-KPC_160k,104335,104.3,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2018-01-10
+CP107385,Klebsiella pneumoniae,unnamed2,134592,134.6,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2018-12-04
+CP084707,Klebsiella pneumoniae,p2,131273,131.3,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2019-07-08
+CP180540,Klebsiella pneumoniae,p2,109206,109.2,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),Not specified,100.0,Homo sapiens,2018-06-03
+OR041627,Escherichia coli,pJ-JNKPN26-2_HNK,270446,270.4,Mega (>250 kb; likely IncHI/IncFIB),Size-based inference,Mega (>250 kb; likely IncHI/IncFIB),China,100.0,Not specified,Not specified
+CP066251,Klebsiella pneumoniae,p3,122076,122.1,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,05-May-2018
+MZ475698,Escherichia coli,unnamed2,114278,114.3,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Not specified,15-Dec-2020
+MT108209,Klebsiella pneumoniae,pBJ108-KPC,68255,68.3,Medium (30-70 kb; likely IncN/IncL/IncX),Size-based inference,Medium (30-70 kb; likely IncN/IncL/IncX),China,100.0,Not specified,Not specified
+CP154492,Klebsiella pneumoniae,p337-2,138913,138.9,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2021
+CP091332,Klebsiella pneumoniae,pCRK3022-2,123020,123.0,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2018-09-10
+CP129833,Klebsiella pneumoniae,p2020N17-097-79k,79275,79.3,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),Taiwan,100.0,Homo sapiens,2020
+CP047689,Klebsiella pneumoniae,pKPC-DD02357,103167,103.2,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,05-Sep-2018
+CP130265,Klebsiella pneumoniae,pKPC-2,133772,133.8,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,elephant,2019-12-09
+CP095242,Klebsiella pneumoniae,p21080237_2,129649,129.6,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo,2021-08
+MT810372,Klebsiella pneumoniae,pTZ40-KPC,124760,124.8,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Not specified,Not specified
+CP139389,Klebsiella aerogenes,pC91664-KPC_105k,105069,105.1,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2016-09-27
+CP133447,Klebsiella pneumoniae,pAR3365_KPC2,106078,106.1,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Hono sapiens,2020-06-09
+CP127983,Klebsiella pneumoniae,p2020N07-152-2,115138,115.1,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),Taiwan,100.0,Homo sapiens,2020
+CP193996,Klebsiella pneumoniae,plasB_KP36,149993,150.0,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2023-02-13
+CP090464,Klebsiella pneumoniae,p2,134477,134.5,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2020-01
+CP163278,Klebsiella pneumoniae,pNC20-1,136068,136.1,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2021
+CP139415,Klebsiella aerogenes,pC272187-KPC_94k,94042,94.0,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2021-09-27
+CP061960,Klebsiella pneumoniae,unnamed3,144349,144.3,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2017-08-09
+CP047692,Serratia marcescens,pC110-KPC,103167,103.2,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,16-Jun-2018
+CP102188,Klebsiella pneumoniae,pS234-2,146760,146.8,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2017-11-16
+CP017086,Proteus mirabilis,pT18,59035,59.0,Medium (30-70 kb; likely IncN/IncL/IncX),Size-based inference,Medium (30-70 kb; likely IncN/IncL/IncX),China,100.0,Homo sapiens,2014
+CP154420,Klebsiella pneumoniae,p241-2,147613,147.6,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2021
+CP130235,Klebsiella pneumoniae,p2016C06-172-108k,108259,108.3,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),Taiwan,100.0,Homo sapiens,2016
+CP089447,Escherichia coli,unnamed2,125150,125.2,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Human body fluids,2021-01-11
+MN182746,Klebsiella pneumoniae,p16ZR-187-IncFII-133-CR,133772,133.8,IncFII-133-CR,NCBI metadata,Large (70-160 kb; likely IncFII±IncR),Not specified,100.0,Homo sapiens,Not specified
+MN823984,Serratia marcescens,p15732-KPC,107763,107.8,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Not specified,Not specified
+CP034125,Klebsiella pneumoniae,p2b2,109179,109.2,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,Sep-2018
+CP078123,Klebsiella pneumoniae,pKP169-P2,157394,157.4,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2020-12-28
+CP069172,Klebsiella pneumoniae,pB,134972,135.0,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2020-10-15
+CP167375,Klebsiella pneumoniae,unnamed2,88978,89.0,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2018
+CP087625,Klebsiella pneumoniae,pDD02280-2,139857,139.9,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2017-12-01
+ON111449,Klebsiella pneumoniae,unnamed1,91779,91.8,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Not specified,21-Jun-2019
+CP147747,Klebsiella pneumoniae,unnamed1,133696,133.7,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2020-02-20
+CP193477,Klebsiella pneumoniae,pkp2007-KPC,127019,127.0,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2023-11-06
+CP173411,Klebsiella pneumoniae,pKP400-2,140060,140.1,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2023
+KP893385,Klebsiella pneumoniae,pKP1034,136848,136.8,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Not specified,01-May-2010
+CP084745,Klebsiella pneumoniae,pKP-KPC-2,128928,128.9,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2020-05-20
+CP154425,Klebsiella pneumoniae,p387-2,139309,139.3,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2021
+CP066906,Klebsiella pneumoniae,pXHKP502-2,85781,85.8,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,10-Aug-2016
+MN823985,Serratia marcescens,p16055-KPC,108662,108.7,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Not specified,Not specified
+CP162936,Klebsiella pneumoniae,pCRKP2-2,138913,138.9,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2023-06
+CP187245,Klebsiella pneumoniae,p3-C23,65029,65.0,Medium (30-70 kb; likely IncN/IncL/IncX),Size-based inference,Medium (30-70 kb; likely IncN/IncL/IncX),China,100.0,homo,2018-03-01
+CP132044,Klebsiella pneumoniae,pCRKP-B8-KPC,133859,133.9,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),Not specified,100.0,Homo sapiens,2021-03-25
+CP064212,Klebsiella pneumoniae,pJX9-1,277720,277.7,Mega (>250 kb; likely IncHI/IncFIB),Size-based inference,Mega (>250 kb; likely IncHI/IncFIB),China,100.0,Not specified,2018/2019
+CP092788,Klebsiella pneumoniae,pXH1508-2,133775,133.8,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2019-05-10
+CP154295,Klebsiella pneumoniae,pKP22-KPC,88313,88.3,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Not specified,2020-06-24
+CP107293,Klebsiella pneumoniae,unnamed2,205511,205.5,Very large (160-250 kb),Size-based inference,Very large (160-250 kb),China,100.0,Homo sapiens,2018-12-04
+CP119043,Klebsiella pneumoniae,pCR-hvKP221-KPC-P3,136943,136.9,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2020-07-13
+CP195922,Klebsiella pneumoniae,pYC2084-2,129682,129.7,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2024-08-30
+CP116494,Klebsiella pneumoniae,unnamed3,85083,85.1,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Not specified,2019-05-03
+ON111447,Klebsiella pneumoniae,unnamed,183190,183.2,Very large (160-250 kb),Size-based inference,Very large (160-250 kb),China,100.0,Homo sapiens,2019-03-16
+CP128081,Klebsiella pneumoniae,p2018C01-117-2,104047,104.0,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),Taiwan,100.0,Homo sapiens,2018
+CP154300,Klebsiella pneumoniae,pKP150-Vir_KPC,234553,234.6,Very large (160-250 kb),Size-based inference,Very large (160-250 kb),China,100.0,Not specified,2022-09-12
+CP162932,Klebsiella pneumoniae,pCRKP1-3,79185,79.2,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2023-06
+CP167369,Klebsiella pneumoniae,unnamed3,145646,145.6,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2018
+CP031936,Klebsiella pneumoniae,unnamed2,133770,133.8,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2016-10
+CP107313,Klebsiella pneumoniae,unnamed1,146891,146.9,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2018-12-04
+CP181476,Escherichia coli,pC600-p2-3,196720,196.7,Very large (160-250 kb),Size-based inference,Very large (160-250 kb),China,100.0,Not specified,2021-12-21
+CP146601,Klebsiella pneumoniae,unnamed2,141491,141.5,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2022-04-20
+CP147750,Klebsiella pneumoniae,unnamed1,133699,133.7,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2020-02-26
+KT185451,Klebsiella pneumoniae,pCT-KPC,151466,151.5,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),Not specified,100.0,Homo sapiens,Not specified
+CP184856,Klebsiella pneumoniae,unnamed2,133053,133.1,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Not specified,2023
+MK191023,Klebsiella pneumoniae,p17-15-KPC,105106,105.1,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens male,11/10/2017
+CP196488,Klebsiella pneumoniae,pKP1225-P2,133775,133.8,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2021-04-01
+CP152450,Klebsiella pneumoniae,p19-3,116361,116.4,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2020
+CP170963,Klebsiella pneumoniae,unnamed3,94155,94.2,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),Taiwan,100.0,Homo sapiens,2014
+PP746479,Klebsiella pneumoniae,pKPC-2_SCNJ43,133766,133.8,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Not specified,Not specified
+CP167612,Klebsiella pneumoniae,unnamed1,107817,107.8,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2014
+CP136845,Klebsiella pneumoniae,pL2329-KPC-2,133771,133.8,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2020-07-16
+CP064234,Klebsiella pneumoniae,pJX5-2,105085,105.1,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2018/2019
+CP128098,Klebsiella pneumoniae,p2018C01-022-1,325200,325.2,Mega (>250 kb; likely IncHI/IncFIB),Size-based inference,Mega (>250 kb; likely IncHI/IncFIB),Taiwan,100.0,Homo sapiens,2018
+CP082761,Klebsiella pneumoniae,pKP36-KPC,133771,133.8,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2017-06-07
+CP100112,Klebsiella pneumoniae,pHSKP104-2,94061,94.1,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2018
+MT920902,Klebsiella pneumoniae,p138812-KPC,107449,107.4,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Not specified,Not specified
+CP097677,Klebsiella pneumoniae,unnamed2,162611,162.6,Very large (160-250 kb),Size-based inference,Very large (160-250 kb),China,100.0,Homo sapiens,2022-01-19
+CP146192,Klebsiella pneumoniae,unnamedB,133766,133.8,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2020-01-11
+CP047683,Citrobacter koseri,pK118-KPC,103175,103.2,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,25-Dec-2018
+CP128030,Klebsiella pneumoniae,p2018C01-166-2,104047,104.0,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),Taiwan,100.0,Homo sapiens,2018
+CP087666,Klebsiella pneumoniae,pDD01845-3,112224,112.2,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2017-12-01
+CP154393,Klebsiella pneumoniae,pKP33-KPC,150086,150.1,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Not specified,2019-01-15
+MW218143,Klebsiella pneumoniae,unnamed2,146878,146.9,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2019-11-15
+CP188102,Klebsiella pneumoniae,pKP845_2,134602,134.6,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2021-12
+CP084494,Klebsiella pneumoniae,p1864-2,152725,152.7,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2018-11-09
+CP092795,Klebsiella pneumoniae,pXH1507-2,133775,133.8,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2019-05-10
+CP101564,Klebsiella pneumoniae,p65_1,126958,127.0,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2013-04
+CP096232,Klebsiella pneumoniae,pKPC-H39,114748,114.7,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2017
+MZ475710,Klebsiella pneumoniae,unnamed2,112901,112.9,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Not specified,15-Dec-2020
+MN200129,Klebsiella pneumoniae,p17ZR-91-IncFII-114,114834,114.8,IncFII-114,NCBI metadata,Large (70-160 kb; likely IncFII±IncR),Not specified,100.0,Homo sapiens,Not specified
+CP054782,Klebsiella pneumoniae,pKP20194a-p2,133771,133.8,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2019-04-03
+CP072557,Klebsiella pneumoniae,pKP2648-KPC,102746,102.7,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2020-08-06
+CP041375,Klebsiella pneumoniae,pKP58-2,134972,135.0,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2018-05-04
+CP127155,Klebsiella pneumoniae,pT1_p2,123027,123.0,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2021
+CP130259,Klebsiella pneumoniae,pKPC-2,133771,133.8,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,elephant,2019-12-09
+PP746481,Klebsiella pneumoniae,pKPC-2_SCNJ50,135683,135.7,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Not specified,Not specified
+CP183786,Klebsiella pneumoniae,unnamed2,133120,133.1,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2023-03-03
+CP129831,Klebsiella pneumoniae,p2020N17-065-90k,90802,90.8,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),Taiwan,100.0,Homo sapiens,2020
+CP167372,Klebsiella pneumoniae,unnamed2,145646,145.6,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2018
+CP082767,Klebsiella pneumoniae,pKP12-KPC,133376,133.4,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2017-12-25
+CP125342,Klebsiella pneumoniae,pWYKP589-2,110599,110.6,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2022-06-21
+CP119014,Klebsiella pneumoniae,pCR-hvKP005-KPC-P1,69455,69.5,Medium (30-70 kb; likely IncN/IncL/IncX),Size-based inference,Medium (30-70 kb; likely IncN/IncL/IncX),China,100.0,Homo sapiens,2017-03-11
+CP119436,Serratia marcescens,pK1030-KPC,86503,86.5,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2021
+CP021195,Escherichia coli,pH17-2,107793,107.8,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2012-10
+CP084208,Escherichia coli,pKPC-fusion-1,139530,139.5,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Not specified,2020-09-01
+CP090434,Klebsiella pneumoniae,pB,134873,134.9,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2021-05-01
+CP029225,Klebsiella pneumoniae,pKPC-L388,145851,145.9,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2017
+CP195820,Klebsiella pneumoniae,pkp2020,287004,287.0,Mega (>250 kb; likely IncHI/IncFIB),Size-based inference,Mega (>250 kb; likely IncHI/IncFIB),China,100.0,Homo sapiens,2023-07-19
+MT955362,Klebsiella pneumoniae,p17129-KPC,93504,93.5,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Not specified,Not specified
+PP746482,Klebsiella pneumoniae,pKPC-2_SCNJ58,135810,135.8,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Not specified,Not specified
+CP154430,Klebsiella pneumoniae,p459-2,94594,94.6,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2021
+CP128053,Klebsiella pneumoniae,p2016C08-223-3,100971,101.0,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),Taiwan,100.0,Homo sapiens,2016
+CP158288,Klebsiella pneumoniae,p304-2,114648,114.6,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2022-01-01
+CP154303,Klebsiella pneumoniae,pKP156-KPCx2,121777,121.8,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Not specified,2022-09-29
+PP746485,Klebsiella pneumoniae,pKPC-2_SCNJ57,123420,123.4,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Not specified,Not specified
+CP106762,Klebsiella pneumoniae,pKP0937-2,134861,134.9,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2022-05
+CP141602,Klebsiella pneumoniae,pKP3682-2,149114,149.1,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2023-01
+CP061346,Klebsiella pneumoniae,pKPCtig00001846,95779,95.8,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2018-09-01
+CP064225,Klebsiella pneumoniae,pJX7-2,133575,133.6,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Not specified,2018/2019
+CP134809,Klebsiella pneumoniae,pWDMF9B,83258,83.3,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2020-10-29
+CP064231,Klebsiella pneumoniae,pJX6-2,105085,105.1,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2018/2019
+CP141668,Klebsiella pneumoniae,pK1023_2,131177,131.2,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2021-12-27
+CP167379,Klebsiella pneumoniae,unnamed2,105078,105.1,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2018
+CP102639,Klebsiella pneumoniae,pCRKP-35_KPC,132749,132.7,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2019-05-20
+ON111451,Klebsiella pneumoniae,unnamed,124154,124.2,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Not specified,13-Mar-2019
+CP101785,Klebsiella pneumoniae,unnamed5,134477,134.5,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2022-04-16T16:26:20Z
+MN200130,Escherichia coli,p17ZR-91-TC1,330557,330.6,Mega (>250 kb; likely IncHI/IncFIB),Size-based inference,Mega (>250 kb; likely IncHI/IncFIB),China,100.0,Not specified,Not specified
+CP137007,Citrobacter koseri,pK1219-KPC,140062,140.1,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2019-02-11
+KY689238,Klebsiella pneumoniae,pKPC_P16,85874,85.9,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),Not specified,100.0,Not specified,Not specified
+CP118693,Klebsiella pneumoniae,pKPTCM2-2,134960,135.0,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2021-03-14
+CP095248,Klebsiella pneumoniae,p21080534_1,210914,210.9,Very large (160-250 kb),Size-based inference,Very large (160-250 kb),China,100.0,Homo,2021-08
+CP084498,Klebsiella pneumoniae,p1632-1,163933,163.9,Very large (160-250 kb),Size-based inference,Very large (160-250 kb),China,100.0,Homo sapiens,2018-11-09
+CP073003,Klebsiella pneumoniae,unnamed1,144365,144.4,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),Taiwan,100.0,Homo sapiens,2017-10
+CP064215,Klebsiella pneumoniae,pJX9-4,77551,77.6,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Not specified,2018/2019
+MK396843,Klebsiella pneumoniae,pLSH-KPN148-1,227415,227.4,Very large (160-250 kb),Size-based inference,Very large (160-250 kb),China,100.0,Not specified,Not specified
+CP125336,Klebsiella pneumoniae,pWYKP586-2,110449,110.4,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2022-06-17
+CP128072,Klebsiella pneumoniae,p2016C08-090-2,95621,95.6,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),Taiwan,100.0,Homo sapiens,2016
+MF168404,Klebsiella pneumoniae,p20049-KPC,151653,151.7,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Not specified,Not specified
+CP100100,Klebsiella pneumoniae,pHSKP43-2,94059,94.1,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2018
+CP175991,Klebsiella pneumoniae,p2-ZY309,131321,131.3,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2023-06-12
+CP160625,Klebsiella pneumoniae,pKPC-2,100133,100.1,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2017-11-20
+OR041629,Escherichia coli,pJ-JNKPN26-4_HNK,267313,267.3,Mega (>250 kb; likely IncHI/IncFIB),Size-based inference,Mega (>250 kb; likely IncHI/IncFIB),China,100.0,Not specified,Not specified
+CP128032,Klebsiella pneumoniae,p2018C01-021-2,104048,104.0,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),Taiwan,100.0,Homo sapiens,2018
+CP127977,Klebsiella pneumoniae,p2020N07-152-3,87439,87.4,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),Taiwan,100.0,Homo sapiens,2020
+CP064771,Klebsiella pneumoniae,pHS20R14-KPC-2,108776,108.8,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2019-01-10
+CP088995,Klebsiella pneumoniae,p50700-140.6,140550,140.6,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),Not specified,100.0,Homo sapiens,Not specified
+CP061355,Klebsiella pneumoniae,pKPC-124,124452,124.5,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2018-09-01
+CP152445,Klebsiella pneumoniae,p16-2,175327,175.3,Very large (160-250 kb),Size-based inference,Very large (160-250 kb),China,100.0,Homo sapiens,2020
+CP079210,Klebsiella pneumoniae,pRes_C2582,128399,128.4,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2017-08-29
+PX405701,Klebsiella pneumoniae,pICU-18,141784,141.8,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Not specified,Jul-2020
+CP166480,Klebsiella pneumoniae,p2-KP3762_1,99600,99.6,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2021-06-10T14:29:00Z
+CP170657,Klebsiella pneumoniae,pCQPMC-KpYD1,132742,132.7,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2024-04-17
+MT090959,Klebsiella pneumoniae,pKP18-2079_KPC,186564,186.6,Very large (160-250 kb),Size-based inference,Very large (160-250 kb),China,100.0,Homo sapiens,22-Nov-2018
+CP100086,Klebsiella pneumoniae,pHSKP107-2,94061,94.1,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2018
+CP047194,Klebsiella pneumoniae,unnamed2,142228,142.2,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2019-01-10
+CP157326,Escherichia coli,pJ53-KPC_Vir,360666,360.7,Mega (>250 kb; likely IncHI/IncFIB),Size-based inference,Mega (>250 kb; likely IncHI/IncFIB),China,100.0,Homo sapiens,2019
+PP746480,Klebsiella pneumoniae,pKPC-2_SCNJ46,133771,133.8,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Not specified,Not specified
+MT269837,Klebsiella pneumoniae,pBSI060-KPC2,107032,107.0,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2017
+CP054764,Klebsiella pneumoniae,pKP20194b2-p2,133772,133.8,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2019-04-12
+CP133403,Klebsiella pneumoniae,p2,132750,132.8,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2022
+MT108207,Klebsiella pneumoniae,pA1750-KPC,111536,111.5,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Not specified,Not specified
+CP171788,Klebsiella pneumoniae,pMTY24772_IncFII-R,84647,84.6,IncFII-R,NCBI metadata,Large (70-160 kb; likely IncFII±IncR),Japan,100.0,Homo sapiens,2024-02-07
+CP147744,Klebsiella pneumoniae,unnamed3,133695,133.7,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2020-02-19
+CP137347,Klebsiella pneumoniae,pH10544-1,164088,164.1,Very large (160-250 kb),Size-based inference,Very large (160-250 kb),China,100.0,Homo sapiens,2019
+LT968757,Klebsiella pneumoniae,,15722,15.7,Small mobilizable (<30 kb),Size-based inference,Small mobilizable (<30 kb),Not specified,100.0,Not specified,Not specified
+CP129874,Klebsiella pneumoniae,p2020S09-154-100k,100026,100.0,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),Taiwan,100.0,Homo sapiens,2020
+MT810375,Klebsiella pneumoniae,p52905-KPC,177735,177.7,Very large (160-250 kb),Size-based inference,Very large (160-250 kb),China,100.0,Not specified,Not specified
+CP029381,Klebsiella pneumoniae,pKPC2_020079,146790,146.8,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,06-Dec-2016
+CP047686,Serratia marcescens,p2838-KPC,103167,103.2,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,17-Dec-2018
+CP034417,Klebsiella pneumoniae,pKPC-CR-hvKP-C789,128299,128.3,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Not specified,14-Apr-2016
+MT269828,Klebsiella pneumoniae,pBSI039-KPC2,149027,149.0,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2015
+CP167482,Klebsiella pneumoniae,unnamed3,133772,133.8,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2019
+CP177310,Klebsiella pneumoniae,p2,141007,141.0,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Not specified,2024-12-10
+CP176045,Klebsiella pneumoniae,p3-zy308,87028,87.0,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2023-06-30
+CP032166,Klebsiella pneumoniae,unnamed3,99048,99.0,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,25-Jan-2018
+KU295132,Escherichia coli,pBK34397,101915,101.9,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),USA,100.0,Not specified,Not specified
+CP172074,Klebsiella pneumoniae,unnamed2,139321,139.3,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,germ,2024-04-22
+CP063761,Klebsiella pneumoniae,pFRPDR_KPC,107554,107.6,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2020-05-06
+CP025468,Klebsiella pneumoniae,p187-2,129684,129.7,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2008-12-09
+MH909338,Klebsiella pneumoniae,pA1759-KPC,64018,64.0,Medium (30-70 kb; likely IncN/IncL/IncX),Size-based inference,Medium (30-70 kb; likely IncN/IncL/IncX),China,100.0,Not specified,2013
+CP064219,Klebsiella pneumoniae,pJX8-2,146760,146.8,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Not specified,2018/2019
+CP084206,Escherichia coli,pKPC-fusion,138128,138.1,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Not specified,2020-09-01
+CP154388,Klebsiella pneumoniae,pKP20-KPC,133696,133.7,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Not specified,2020-07-15
+CP030316,Klebsiella pneumoniae,p11305-1,64018,64.0,Medium (30-70 kb; likely IncN/IncL/IncX),Size-based inference,Medium (30-70 kb; likely IncN/IncL/IncX),China,100.0,Homo sapiens,2013
+CP170829,Klebsiella pneumoniae,unnamed2,87907,87.9,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),Taiwan,100.0,Homo sapiens,2018
+CP172458,Klebsiella pneumoniae,pWYKP194-2,94884,94.9,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2020-01-19
+MK433207,Klebsiella pneumoniae,pK15-KPC,180154,180.2,Very large (160-250 kb),Size-based inference,Very large (160-250 kb),China,100.0,pig,Sep-2018
+CP100079,Klebsiella pneumoniae,pRJKP36-3,108814,108.8,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2018
+CP141647,Citrobacter freundii,pNFYY328-2,133774,133.8,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2023
+CP129716,Klebsiella pneumoniae,p2018C07-039-90k,90802,90.8,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),Taiwan,100.0,Homo sapiens,2018
+CP140645,Klebsiella pneumoniae,p1_Kpn_XM9,128219,128.2,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2022-01-17
+MW478298,Klebsiella pneumoniae,pKP7849_KPC,148977,149.0,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,16-Aug-2019
+CP128001,Klebsiella pneumoniae,p2018C06-068-1,115858,115.9,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),Taiwan,100.0,Homo sapiens,2018
+CP119036,Klebsiella pneumoniae,pCR-hvKP173-KPC-P2,144880,144.9,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2018-06-07
+CP138673,Klebsiella pneumoniae,unnamed2,132750,132.8,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2019-02
+CP170985,Klebsiella pneumoniae,unnamed3,94156,94.2,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),Taiwan,100.0,Homo sapiens,2014
+CP168663,Klebsiella pneumoniae,pKP13-2,139321,139.3,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2023-05
+CP103407,Klebsiella pneumoniae,unnamed2,139318,139.3,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2021-08-06
+CP171799,Klebsiella pneumoniae,pKC141-2,134705,134.7,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2024
+CP186939,Klebsiella pneumoniae,pK78927_KPC,107151,107.2,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2024
+CP054728,Klebsiella pneumoniae,pKP20194a2-p2,133772,133.8,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2019-04-25
+CP084211,Escherichia coli,pKP2648-KPCR,102745,102.7,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Not specified,2020-09-01
+CP168668,Klebsiella pneumoniae,pKP41-2,144993,145.0,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2023-05
+CP154275,Klebsiella pneumoniae,p54-2,116361,116.4,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2020
+MT810357,Klebsiella pneumoniae,pA1697-KPC,128588,128.6,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Not specified,Not specified
+MH558576,Klebsiella pneumoniae,,11275,11.3,Small mobilizable (<30 kb),Size-based inference,Small mobilizable (<30 kb),China,100.0,Not specified,2010
+CP163294,Klebsiella pneumoniae,pNC75-5,134876,134.9,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2021
+CP159191,Klebsiella pneumoniae,pGYH-FS-1635-2,135050,135.1,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2022-03-18
+CP167623,Klebsiella pneumoniae,unnamed3,148547,148.5,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2016
+CP125089,Klebsiella pneumoniae,pBAK085a,113626,113.6,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),Singapore,100.0,Homo sapiens,Not specified
+CP066888,Klebsiella pneumoniae,pXHKP6-1,180300,180.3,Very large (160-250 kb),Size-based inference,Very large (160-250 kb),China,100.0,Homo sapiens,13-Sep-2010
+CP095265,Klebsiella pneumoniae,p21091025_1,133771,133.8,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo,2021-09
+CP103319,Klebsiella pneumoniae,pD,83447,83.4,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2021-03-10
+CP128783,Klebsiella pneumoniae,pARLG-4365_2,71364,71.4,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),USA,100.0,Homo sapiens,2017
+MH643792,Klebsiella pneumoniae,pSH2-85K-MDR,149033,149.0,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,Not specified
+CP087660,Klebsiella pneumoniae,pDD01635-3,112390,112.4,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2017-12-01
+CP176052,Escherichia coli,pB5-1,147286,147.3,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Not specified,2023-09-08
+CP129836,Klebsiella pneumoniae,p2020N17-130-96k,96125,96.1,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),Taiwan,100.0,Homo sapiens,2020
+CP054758,Klebsiella pneumoniae,pKP20194c5-p2,123177,123.2,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2019-04-13
+CP080299,Klebsiella pneumoniae,p426-KPC,128928,128.9,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2020
+CP064237,Klebsiella pneumoniae,pJX4-2,165027,165.0,Very large (160-250 kb),Size-based inference,Very large (160-250 kb),China,100.0,Homo sapiens,2018/2019
+CP043345,Klebsiella pneumoniae,pKPC2_020039,128614,128.6,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2016-11-07
+CP087653,Klebsiella pneumoniae,pDD01653-2,112393,112.4,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2017-12-01
+MH917122,Klebsiella pneumoniae,pSZF_KPC,106201,106.2,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2015
+CP129839,Klebsiella pneumoniae,p2020N17-131-96k,96125,96.1,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),Taiwan,100.0,Homo sapiens,2020
+CP090204,Klebsiella pneumoniae,pJNKPN26_KPC,126203,126.2,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2019-02-28
+MT810376,Klebsiella pneumoniae,pZZDX37-KPC,91216,91.2,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Not specified,Not specified
+CP167654,Klebsiella pneumoniae,unnamed3,69455,69.5,Medium (30-70 kb; likely IncN/IncL/IncX),Size-based inference,Medium (30-70 kb; likely IncN/IncL/IncX),China,100.0,Homo sapiens,2017
+CP101543,Klebsiella pneumoniae,p21_1,129998,130.0,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2013-04
+CP182844,Klebsiella pneumoniae,pKC231-2,135793,135.8,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2024-06-04
+CP099415,Klebsiella pneumoniae,p33367_KPC2,150096,150.1,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Not specified,2015-09
+CP033956,Klebsiella pneumoniae,pKPC-2_SCNJ37,133772,133.8,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2018
+MT810358,Klebsiella pneumoniae,p15001-KPC,129274,129.3,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Not specified,Not specified
+CP138521,Klebsiella pneumoniae,pKPC3813,125150,125.2,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Not specified,2020-09-26
+CP076673,Klebsiella pneumoniae,pZY1393-2,134874,134.9,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2020-12
+CP107299,Klebsiella pneumoniae,unnamed2,215446,215.4,Very large (160-250 kb),Size-based inference,Very large (160-250 kb),China,100.0,Homo sapiens,2018-12-04
+CP096244,Klebsiella pneumoniae,pKPC-DD01665,94000,94.0,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2017
+MZ546615,Klebsiella pneumoniae,pJNKPN26_KPC,126203,126.2,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Not specified,Not specified
+CP127956,Klebsiella pneumoniae,p2018C06-153-2,87906,87.9,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),Taiwan,100.0,Homo sapiens,2018
+MW465706,Klebsiella pneumoniae,pKP6106_KPC,98788,98.8,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,06-Jul-2017
+MN615880,Serratia marcescens,pS1-KPC2,105220,105.2,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Not specified,Not specified
+CP066256,Klebsiella pneumoniae,p3,149407,149.4,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,23-May-2018
+CP139402,Klebsiella aerogenes,pC222139-KPC_104k,104961,105.0,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2021-07-21
+CP146353,Klebsiella pneumoniae,pYDDB_res,134960,135.0,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2023-04
+CP157324,Klebsiella pneumoniae,pKPC,94064,94.1,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2019
+CP138677,Klebsiella pneumoniae,unnamed2,132750,132.8,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2019-02
+MH909332,Klebsiella pneumoniae,pA1731-KPC,72458,72.5,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Not specified,2013
+CP169921,Klebsiella pneumoniae,pK64102-KPC,131089,131.1,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,99.99,Homo sapiens,2023
+CP180400,Klebsiella pneumoniae,p2-KPN845,149190,149.2,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,99.99,Homo sapiens,2024-02-22
+CP128004,Klebsiella pneumoniae,p2018S09-085-1,91070,91.1,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),Taiwan,99.99,Homo sapiens,2018
+CP167605,Klebsiella pneumoniae,unnamed2,204765,204.8,Very large (160-250 kb),Size-based inference,Very large (160-250 kb),China,99.99,Homo sapiens,2017
+CP003224,Klebsiella pneumoniae,pKPHS2,111195,111.2,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),Not specified,99.99,Not specified,Not specified
+CP180339,Klebsiella pneumoniae,p2-KPN728,127849,127.8,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,99.99,Homo sapiens,2024-02-14
+CP183205,Klebsiella pneumoniae,unnamed3,100883,100.9,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,99.99,Homo sapiens,2018
+CP110181,Klebsiella pneumoniae,pXYJ-CZA-R-4,71813,71.8,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,99.99,Homo sapiens,2021-11-08
+CP180661,Klebsiella pneumoniae,pJHKP172-105k,105088,105.1,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,99.99,Homo sapiens,2023-10-26
+CP127968,Klebsiella pneumoniae,p2016S06-131-1,63902,63.9,Medium (30-70 kb; likely IncN/IncL/IncX),Size-based inference,Medium (30-70 kb; likely IncN/IncL/IncX),Taiwan,99.99,Homo sapiens,2016
+OM928502,Klebsiella pneumoniae,pZHKPC1,105885,105.9,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,99.99,Homo sapiens,Not specified
+CP139397,Klebsiella aerogenes,pC212158_1_110k,110952,111.0,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,99.99,Homo sapiens,2021-08-06
+MT810363,Klebsiella pneumoniae,p26041-KPC,100883,100.9,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,99.99,Not specified,Not specified
+CP116905,Klebsiella pneumoniae,pKP2722-2,134875,134.9,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,99.99,Homo sapiens,2022
+CP166073,Klebsiella pneumoniae,pKPHS2,111192,111.2,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),Indonesia,99.99,Not specified,2024-07-11
+CP133387,Klebsiella pneumoniae,p377C6,107938,107.9,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),India,99.99,Homo sapiens,2023-02-24
+CP141070,Klebsiella pneumoniae,p5,120635,120.6,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,99.99,Not specified,2023-09
+CP088271,Klebsiella pneumoniae,unnamed2,76708,76.7,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,99.99,Homo sapiens,2020-10-05
+CP120848,Klebsiella pneumoniae,pKPHRJ,133718,133.7,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,99.99,Homo sapiens,2022-11-01
+CP162093,Klebsiella pneumoniae,pNC34-2,105601,105.6,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,99.99,Homo sapiens,2022-05-04
+CP162090,Klebsiella pneumoniae,pNC3-3,105601,105.6,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,99.99,Homo sapiens,2022-03-03
+CP180656,Klebsiella pneumoniae,pJHKP136-106k,106308,106.3,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,99.99,Homo sapiens,2023-10-14
+CP180651,Klebsiella pneumoniae,pJHKP133-106k,106308,106.3,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,99.99,Homo sapiens,2023-10-08
+MT550691,Klebsiella pneumoniae,pKPC-h2,77551,77.6,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,99.99,Homo sapiens,Not specified
+CP168288,Klebsiella pneumoniae,pK1009_2,128689,128.7,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,99.99,Homo sapiens,2023-09-01
+CP159183,Klebsiella pneumoniae,pZZX-CZA-R-2,135051,135.1,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,99.99,Homo sapiens,2022-05-05
+PX405700,Klebsiella pneumoniae,pICU-3,141784,141.8,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,99.99,Not specified,Jul-2020
+CP107017,Klebsiella pneumoniae,pKPC-K30821,96126,96.1,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,99.99,Homo sapiens,2020-07-03
+PP212884,Klebsiella pneumoniae,pB,96121,96.1,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,99.99,Not specified,Not specified
+CP169930,Klebsiella pneumoniae,pK67034-KPC,134477,134.5,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,99.99,Homo sapiens,2024
+CP180671,Klebsiella pneumoniae,pJHKP159-105k,105056,105.1,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,99.99,Homo sapiens,2023-12-01
+CP071162,Klebsiella pneumoniae,pKPC84_130120,134873,134.9,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,99.99,Homo sapiens,2019-11
+CP130180,Klebsiella pneumoniae,p2014C06-026-113k,113108,113.1,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),Taiwan,99.99,Homo sapiens,2014
+OM928503,Klebsiella pneumoniae,pZHKPC2,109901,109.9,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,99.98,Homo sapiens,Not specified
+MN823986,Klebsiella pneumoniae,p332306-KPC,108082,108.1,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,99.98,Not specified,Not specified
+CP090345,Klebsiella pneumoniae,pKPK3-2,132507,132.5,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,99.98,Homo sapiens,2020-12-04
+CP143301,Klebsiella pneumoniae,pCARKWB,124624,124.6,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,99.98,Homo sapiens,2023
+CP183780,Klebsiella pneumoniae,unnamed2,133120,133.1,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,99.98,Homo sapiens,2023-03-13
+CP050279,Klebsiella pneumoniae,unnamed4,96437,96.4,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,99.98,Homo sapiens,2017-12-26
+CP066892,Klebsiella pneumoniae,pXHKP53-1,147717,147.7,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,99.98,Homo sapiens,10-Jul-2012
+CP066153,Klebsiella pneumoniae,unnamed2,133625,133.6,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,99.97,Homo sapiens,23-Jun-2020
+MT810373,Klebsiella pneumoniae,pA1732-KPC,65897,65.9,Medium (30-70 kb; likely IncN/IncL/IncX),Size-based inference,Medium (30-70 kb; likely IncN/IncL/IncX),China,99.97,Not specified,Not specified
+CP146851,Klebsiella pneumoniae,pKP2CSL-KPC,138872,138.9,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,99.97,Not specified,2023-10-01
+CP100088,Klebsiella pneumoniae,pHSKP8-1,94350,94.3,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,99.97,Homo sapiens,2018
+CP159187,Klebsiella pneumoniae,pWHY-CZA-R-2,103163,103.2,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,99.96,Homo sapiens,2022-04-25
+CP050276,Klebsiella pneumoniae,unnamed1,404774,404.8,Mega (>250 kb; likely IncHI/IncFIB),Size-based inference,Mega (>250 kb; likely IncHI/IncFIB),China,99.96,Homo sapiens,2017-12-26
+CP050282,Klebsiella pneumoniae,unnamed2,185429,185.4,Very large (160-250 kb),Size-based inference,Very large (160-250 kb),China,99.96,Homo sapiens,2017-12-07
+KP125892,Escherichia coli,pHS10842,13915,13.9,Small mobilizable (<30 kb),Size-based inference,Small mobilizable (<30 kb),China,99.94,Homo sapiens,08-May-2010
+KF724507,Klebsiella pneumoniae,pHS082416,12915,12.9,Small mobilizable (<30 kb),Size-based inference,Small mobilizable (<30 kb),China,99.94,Homo sapiens,24-Oct-2008
+KF826293,Klebsiella pneumoniae,pHS092753,12966,13.0,Small mobilizable (<30 kb),Size-based inference,Small mobilizable (<30 kb),China,99.94,Not specified,22-Oct-2010
+CP050288,Klebsiella pneumoniae,unnamed3,93415,93.4,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,99.94,Homo sapiens,2017-11-27
+CP130692,Klebsiella pneumoniae,pSP1030-KPC-tetA,101768,101.8,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,99.94,Homo sapiens,2023
+CP130686,Klebsiella pneumoniae,pF1025-KPC-tetA,101767,101.8,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,99.94,Homo sapiens,2023
+CP055296,Klebsiella pneumoniae,pKP55_2,133766,133.8,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,99.94,Homo sapiens,Apr-2020
+ON784343,Serratia marcescens,pK17-KPC,87232,87.2,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,99.86,Not specified,2016
+CP107245,Klebsiella pneumoniae,unnamed2,94826,94.8,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,99.87,Homo sapiens,2021-09-10
+LT968763,Klebsiella pneumoniae,,70242,70.2,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),Not specified,99.84,Not specified,Not specified
+CP133012,Klebsiella pneumoniae,p314C6,105934,105.9,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),India,99.7,Homo sapiens,2023-03-17
+CP107464,Klebsiella pneumoniae,unnamed1,128751,128.8,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,99.99,Homo sapiens,2018-12-04
+CP095423,Klebsiella pneumoniae,pIM057_KPC,129505,129.5,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,patient,2020-03-02
+CP119018,Klebsiella pneumoniae,pCR-hvKP006-KPC-P1,111731,111.7,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2020-10-12
+CP023725,Klebsiella pneumoniae,unnamed3,103454,103.5,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),Taiwan,100.0,Homo sapiens,13-Aug-2014
+AP018674,Klebsiella pneumoniae,pGSU10-3-3,66250,66.2,Medium (30-70 kb; likely IncN/IncL/IncX),Size-based inference,Medium (30-70 kb; likely IncN/IncL/IncX),Japan,100.0,Not specified,2017-08
+CP129870,Klebsiella pneumoniae,p2020S09-111-94k,94877,94.9,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),Taiwan,99.99,Homo sapiens,2020
+CP177024,Klebsiella pneumoniae,pCRhvKp1653,105406,105.4,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),Taiwan,99.99,Homo sapiens,2014
+MT108206,Klebsiella pneumoniae,pA1743-KPC,86625,86.6,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,99.99,Not specified,Not specified
+CP185005,Klebsiella pneumoniae,unnamed2,121551,121.6,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),South Korea,99.99,Homo sapiens,2016-08-18
+CP025463,Klebsiella pneumoniae,p44-2,161580,161.6,Very large (160-250 kb),Size-based inference,Very large (160-250 kb),China,100.0,Homo sapiens,2016-04-18
+CP167334,Klebsiella pneumoniae,unnamed3,62620,62.6,Medium (30-70 kb; likely IncN/IncL/IncX),Size-based inference,Medium (30-70 kb; likely IncN/IncL/IncX),China,99.99,Homo sapiens,2016
+CP101569,Klebsiella pneumoniae,p29_2,138059,138.1,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2013-04
+MN891683,Klebsiella pneumoniae,p314013-KPC,119921,119.9,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,99.99,Not specified,Not specified
+CP100122,Klebsiella pneumoniae,pGZKP13-2,56210,56.2,Medium (30-70 kb; likely IncN/IncL/IncX),Size-based inference,Medium (30-70 kb; likely IncN/IncL/IncX),China,100.0,Homo sapiens,2018
+MT840285,Klebsiella pneumoniae,pBJYY8-2KPC,92241,92.2,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,99.86,Not specified,Not specified
+CP129698,Klebsiella pneumoniae,p2016N17-469-105k,105092,105.1,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),Taiwan,100.0,Homo sapiens,2016
+CP006657,Klebsiella pneumoniae,p1,317154,317.2,Mega (>250 kb; likely IncHI/IncFIB),Size-based inference,Mega (>250 kb; likely IncHI/IncFIB),Not specified,99.99,Homo sapiens,07-Apr-2010
+CP139684,Klebsiella pneumoniae,p6P3,42848,42.8,Medium (30-70 kb; likely IncN/IncL/IncX),Size-based inference,Medium (30-70 kb; likely IncN/IncL/IncX),China,100.0,Homo sapiens,2018-02-05
+CP189869,Citrobacter portucalensis,pJH112-3KPC,110729,110.7,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2023-09-03
+CP136729,Citrobacter braakii,pF217-KPC_86k,86404,86.4,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,99.99,Homo sapiens,Not specified
+CP163257,Klebsiella pasteurii,pK1134-KPC,137213,137.2,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2020
+PP083690,Serratia marcescens,pKPC-SM11,42848,42.8,Medium (30-70 kb; likely IncN/IncL/IncX),Size-based inference,Medium (30-70 kb; likely IncN/IncL/IncX),China,99.99,Not specified,Not specified
+CP096922,Citrobacter freundii,pNY2385-IMP,62214,62.2,Medium (30-70 kb; likely IncN/IncL/IncX),Size-based inference,Medium (30-70 kb; likely IncN/IncL/IncX),China,99.99,Homo sapiens,2014
+CP090391,Klebsiella pneumoniae,pYUYZH22127-2,171602,171.6,Very large (160-250 kb),Size-based inference,Very large (160-250 kb),China,100.0,Homo sapiens,2020-10-22
+CP119438,Klebsiella michiganensis,pK689-KPC,87421,87.4,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,99.99,Homo sapiens,2021
+CP145918,Providencia huaxiensis,pZ7CR1848_KPC-2,42848,42.8,Medium (30-70 kb; likely IncN/IncL/IncX),Size-based inference,Medium (30-70 kb; likely IncN/IncL/IncX),China,99.99,Homo sapiens,Not specified
+KF826291,Escherichia coli,pHS111288,14757,14.8,Small mobilizable (<30 kb),Size-based inference,Small mobilizable (<30 kb),China,100.0,Not specified,13-Jun-2011
+FJ628167,Klebsiella pneumoniae,pKP048,151188,151.2,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),Not specified,100.0,Not specified,Not specified
+CP149976,Morganella morganii,pMM4205-KPC-2_59k,58972,59.0,Medium (30-70 kb; likely IncN/IncL/IncX),Size-based inference,Medium (30-70 kb; likely IncN/IncL/IncX),China,100.0,Homo sapiens,2016-11-09
+CP087707,Klebsiella pneumoniae,pYUYZH2487-1,217602,217.6,Very large (160-250 kb),Size-based inference,Very large (160-250 kb),China,99.99,Homo sapiens,2020-10-24
+CP136726,Citrobacter braakii,pF217-KPC_28k,28937,28.9,Small mobilizable (<30 kb),Size-based inference,Small mobilizable (<30 kb),China,99.99,Homo sapiens,Not specified
+KF623109,Klebsiella pneumoniae,pHS062105-3,42848,42.8,Medium (30-70 kb; likely IncN/IncL/IncX),Size-based inference,Medium (30-70 kb; likely IncN/IncL/IncX),China,100.0,Homo sapiens,28-Aug-2006
+CP090395,Klebsiella pneumoniae,pYUYZH2429-2,171626,171.6,Very large (160-250 kb),Size-based inference,Very large (160-250 kb),China,100.0,Homo sapiens,2020-10-24
+CP186043,Citrobacter freundii,pT1001-KPC,45707,45.7,Medium (30-70 kb; likely IncN/IncL/IncX),Size-based inference,Medium (30-70 kb; likely IncN/IncL/IncX),China,99.99,Homo sapiens,2022
+KF826292,Klebsiella pneumoniae,pHS10505,15464,15.5,Small mobilizable (<30 kb),Size-based inference,Small mobilizable (<30 kb),China,100.0,Not specified,13-Mar-2010
+CP114573,Enterobacter hormaechei,pE1532-KPC,39461,39.5,Medium (30-70 kb; likely IncN/IncL/IncX),Size-based inference,Medium (30-70 kb; likely IncN/IncL/IncX),China,100.0,Not specified,2015
+CP126883,Citrobacter freundii,pNY2385-KPC,42848,42.8,Medium (30-70 kb; likely IncN/IncL/IncX),Size-based inference,Medium (30-70 kb; likely IncN/IncL/IncX),China,99.99,Homo sapiens,2014
+CP110896,Citrobacter freundii,pCF1807-3,106844,106.8,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2018-07-17
+MN891676,Klebsiella pneumoniae,p24169-KPC,69297,69.3,Medium (30-70 kb; likely IncN/IncL/IncX),Size-based inference,Medium (30-70 kb; likely IncN/IncL/IncX),China,99.99,Not specified,Not specified
+KY296104,Enterobacter cloacae,pHN84KPC,39367,39.4,Medium (30-70 kb; likely IncN/IncL/IncX),Size-based inference,Medium (30-70 kb; likely IncN/IncL/IncX),China,100.0,Not specified,Not specified
+CP082176,Raoultella planticola,p8_SCLZS62,42847,42.8,Medium (30-70 kb; likely IncN/IncL/IncX),Size-based inference,Medium (30-70 kb; likely IncN/IncL/IncX),China,99.98,Not specified,2019-11
+CP110358,Enterobacter hormaechei,pECC2783_d,42848,42.8,Medium (30-70 kb; likely IncN/IncL/IncX),Size-based inference,Medium (30-70 kb; likely IncN/IncL/IncX),China,99.98,Homo sapiens,2017-09-30
+CP130660,Klebsiella pneumoniae,pSM117_KPC,45135,45.1,Medium (30-70 kb; likely IncN/IncL/IncX),Size-based inference,Medium (30-70 kb; likely IncN/IncL/IncX),China,99.99,Homo sapiens,2023-01-19
+MT066418,Klebsiella pneumoniae,p158590-KPC,138959,139.0,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2018-02-05
+CP036306,Klebsiella pneumoniae,pKPC2_020098,149519,149.5,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2017-02-28
+MF993441,Klebsiella pneumoniae,p11420-KPC,81180,81.2,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),Not specified,100.0,Not specified,Not specified
+CP038003,Klebsiella pneumoniae,pKPC2_020009,149518,149.5,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2016-09-30
+MK036886,Klebsiella pneumoniae,p283149-KPC,136186,136.2,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Not specified,Not specified
+MT269845,Klebsiella pneumoniae,pBSI069-KPC2,138950,138.9,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2018
+CP058228,Klebsiella pneumoniae,pKPCZA02_2,149200,149.2,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,02-Jun-2015
+MT269820,Klebsiella pneumoniae,pBSI010-KPC2,146268,146.3,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2015
+MT269821,Klebsiella pneumoniae,pBSI011-KPC2,92603,92.6,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2015
+MT810354,Klebsiella pneumoniae,pA1708-KPC,173280,173.3,Very large (160-250 kb),Size-based inference,Very large (160-250 kb),China,100.0,Not specified,Not specified
+MT269834,Klebsiella pneumoniae,pBSI062-KPC2,142890,142.9,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2017
+CP097655,Klebsiella pneumoniae,unnamed1,106759,106.8,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2022-01-19
+CP066529,Klebsiella pneumoniae,pKPC2_090361,144228,144.2,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,19-Jun-2019
+MT109193,Klebsiella pneumoniae,p156070-KPC,138959,139.0,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,04-Jan-2018
+MT269827,Klebsiella pneumoniae,pBSI032-KPC2,132173,132.2,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2017
+MG764553,Klebsiella pneumoniae,pA3295-KPC,153274,153.3,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Not specified,Not specified
+MF918372,Klebsiella pneumoniae,p1512-KPC,117697,117.7,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),Not specified,100.0,Not specified,Not specified
+MT810365,Klebsiella pneumoniae,pBJYY16-KPC,112814,112.8,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Not specified,Not specified
+CP085890,Klebsiella pneumoniae,pFK8695-KPC-33,143980,144.0,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,99.99,Homo sapiens,2020
+CP098449,Proteus mirabilis,pPM46-KPC_24k,24225,24.2,Small mobilizable (<30 kb),Size-based inference,Small mobilizable (<30 kb),China,100.0,Homo sapiens,2021
+CP098452,Proteus mirabilis,pKPC_FZP3115,24225,24.2,Small mobilizable (<30 kb),Size-based inference,Small mobilizable (<30 kb),China,100.0,Homo sapiens,2021
+CP137222,Proteus mirabilis,pPM35-KPC_24k,24225,24.2,Small mobilizable (<30 kb),Size-based inference,Small mobilizable (<30 kb),China,100.0,Homo sapiens,2022-10-22
+CP031847,Proteus mirabilis,pXH983,24225,24.2,Small mobilizable (<30 kb),Size-based inference,Small mobilizable (<30 kb),China,100.0,Homo sapiens,2014-12-10
+CP017083,Proteus mirabilis,pT211,24225,24.2,Small mobilizable (<30 kb),Size-based inference,Small mobilizable (<30 kb),China,100.0,Homo sapiens,2013
+OR095743,Klebsiella pneumoniae,unnamed3,157680,157.7,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Not specified,Not specified
+CP136434,Proteus mirabilis,pPM38-KPC_25k,25002,25.0,Small mobilizable (<30 kb),Size-based inference,Small mobilizable (<30 kb),China,100.0,Homo sapiens,2017-01-03
+CP169534,Klebsiella pneumoniae,p8536-2,135746,135.7,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,99.99,Homo sapiens,2019-06-30
+CP160200,Klebsiella pneumoniae,unnamed2,118468,118.5,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2022-06
+CP091782,Klebsiella pneumoniae,p180CTX-M-15,119234,119.2,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,99.96,Homo sapiens,2018-01-01
+CP066518,Klebsiella pneumoniae,pKPC2_090329,149181,149.2,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,18-Jun-2019
+MF168406,Klebsiella pneumoniae,p283747-KPC,148021,148.0,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Not specified,Not specified
+CP030301,Klebsiella pneumoniae,p283747-1,148021,148.0,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,100.0,Homo sapiens,2015
+CP065557,Klebsiella pneumoniae,unnamed3,73746,73.7,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,99.8,Homo sapiens,23-May-2019
+CP059890,Klebsiella pneumoniae,pKP18069-KPC,95050,95.0,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),Not specified,100.0,Not specified,Not specified
+ON111448,Klebsiella pneumoniae,unnamed,184378,184.4,Very large (160-250 kb),Size-based inference,Very large (160-250 kb),China,100.0,Not specified,22-Jun-2019
+CP133348,Enterobacter asburiae,pB-CRECL419,32474,32.5,Medium (30-70 kb; likely IncN/IncL/IncX),Size-based inference,Medium (30-70 kb; likely IncN/IncL/IncX),Not specified,99.98,Not specified,2022-03-24
+CP146853,Klebsiella pneumoniae,pKP4WSM-KPC,138889,138.9,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,99.99,Not specified,2023-10-01
+MT810356,Klebsiella pneumoniae,p246421-KPC,145209,145.2,Large (70-160 kb; likely IncFII±IncR),Size-based inference,Large (70-160 kb; likely IncFII±IncR),China,99.99,Not specified,Not specified
+CP077978,Pseudomonas aeruginosa,pZPPH29-KPC,397554,397.6,Mega (>250 kb; likely IncHI/IncFIB),Size-based inference,Mega (>250 kb; likely IncHI/IncFIB),China,98.34,Homo sapiens,2017-04-27
+CP077986,Pseudomonas aeruginosa,pZPPH2-KPC,52415,52.4,Medium (30-70 kb; likely IncN/IncL/IncX),Size-based inference,Medium (30-70 kb; likely IncN/IncL/IncX),China,98.34,Homo sapiens,2017-06-03
+CP064404,Pseudomonas aeruginosa,pWTJH12-KPC,396963,397.0,Mega (>250 kb; likely IncHI/IncFIB),Size-based inference,Mega (>250 kb; likely IncHI/IncFIB),China,98.34,Homo sapiens,2018-02-09
+CP077990,Pseudomonas aeruginosa,pZPPH1-KPC,52415,52.4,Medium (30-70 kb; likely IncN/IncL/IncX),Size-based inference,Medium (30-70 kb; likely IncN/IncL/IncX),China,98.34,Homo sapiens,2017-07-05
+CP137894,Pseudomonas aeruginosa,pR11-08,395022,395.0,Mega (>250 kb; likely IncHI/IncFIB),Size-based inference,Mega (>250 kb; likely IncHI/IncFIB),China,98.34,Homo sapiens,Not specified

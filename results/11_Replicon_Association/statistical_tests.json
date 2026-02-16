@@ -1,0 +1,32 @@
+{
+  "chi_square_test": {
+    "test": "Chi-square test of independence (size class \u00d7 species)",
+    "chi2": 284.8443046928712,
+    "p_value": 3.476818510074525e-51,
+    "dof": 16,
+    "interpretation": "Plasmid size distribution is significantly non-random across species"
+  },
+  "kruskal_wallis_test": {
+    "test": "Kruskal-Wallis H test (plasmid size across species)",
+    "H_statistic": 31.36049983008184,
+    "p_value": 2.584381004615998e-06,
+    "interpretation": "Plasmid sizes differ significantly across species"
+  },
+  "mann_whitney_test": {
+    "test": "Mann-Whitney U test (K. pneumoniae vs other species)",
+    "U_statistic": 17143.5,
+    "p_value": 2.2287765604346353e-06,
+    "kp_median_kb": 128.5,
+    "other_median_kb": 102.7,
+    "interpretation": "K. pneumoniae plasmids differ significantly in size from other species"
+  },
+  "enrichment_test": {
+    "test": "Binomial test (70-160 kb class enrichment vs 20% expected)",
+    "observed_count": 370,
+    "total": 460,
+    "observed_proportion": 0.8043478260869565,
+    "expected_proportion": 0.2,
+    "p_value": 1.2856652501451687e-170,
+    "interpretation": "The 70-160 kb size class is significantly enriched (80.4% vs 20% expected)"
+  }
+}
